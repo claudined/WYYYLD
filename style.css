@@ -1,7 +1,0 @@
-.navbar-item:hover{
-    background-color:red !important;
-}
-.navbar-link:hover{
-    background-color:yellow;
-}
-$navbar-item-hover-color: $black;
